@@ -20,5 +20,75 @@
     "sources": [
       "https://arxiv.org/abs/2611.04522"
     ]
+  },
+  {
+    "id": "arxiv:2611.04391",
+    "doi": "10.48550/arXiv.2611.04391",
+    "title": "Human-to-Robot Transfer via Bridging Representation and Action Space in VLAs",
+    "authors": ["Junhyeong Park", "Wook Jung", "Taeyoung Kim", "Huiwon Jang", "Jinwoo Shin"],
+    "published_at": "2026-11-03",
+    "status": "CoRL 2026 Scaling H2R Workshop oral; arXiv preprint",
+    "paper_url": "https://arxiv.org/abs/2611.04391",
+    "project_url": "https://junhyeong-park.me/h2rb/",
+    "code_url": "https://github.com/jun-brro/h2rb-code",
+    "summary_path": "papers/2026-11-05/h2rb-human-to-robot-transfer.md",
+    "added_at": "2026-11-05",
+    "sources": ["https://arxiv.org/abs/2611.04391", "https://junhyeong-park.me/h2rb/", "https://github.com/jun-brro/h2rb-code"]
+  },
+  {
+    "id": "arxiv:2611.05155",
+    "doi": "10.48550/arXiv.2611.05155",
+    "title": "Asynchronous Robot Policies",
+    "authors": ["Sombit Dey", "Luc Van Gool", "Danda Pani Paudel"],
+    "published_at": "2026-11-03",
+    "status": "arXiv preprint",
+    "paper_url": "https://arxiv.org/abs/2611.05155",
+    "project_url": "https://arp.insait.ai/",
+    "code_url": null,
+    "summary_path": "papers/2026-11-05/asynchronous-robot-policies.md",
+    "added_at": "2026-11-05",
+    "sources": ["https://arxiv.org/abs/2611.05155", "https://arp.insait.ai/"]
+  },
+  {
+    "id": "arxiv:2611.05163",
+    "doi": "10.48550/arXiv.2611.05163",
+    "title": "RoboTryOn: Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On",
+    "authors": ["Seungyong Lee", "Suhyeok Jang", "Minyoung Kim", "Jinwoo Shin"],
+    "published_at": "2026-11-03",
+    "status": "arXiv preprint",
+    "paper_url": "https://arxiv.org/abs/2611.05163",
+    "project_url": "https://ryan-seungyong-lee.github.io/RoboTryOn/",
+    "code_url": "https://github.com/ryan-seungyong-lee/RoboTryOn",
+    "summary_path": "papers/2026-11-05/robotryon-human-video-demonstrations.md",
+    "added_at": "2026-11-05",
+    "sources": ["https://arxiv.org/abs/2611.05163", "https://ryan-seungyong-lee.github.io/RoboTryOn/", "https://github.com/ryan-seungyong-lee/RoboTryOn"]
+  },
+  {
+    "id": "arxiv:2611.05062",
+    "doi": "10.48550/arXiv.2611.05062",
+    "title": "FloMo: 3D Scene Flow as a World Action Model Intermediate for Learning from Human Video",
+    "authors": ["Jeremy Collins", "Namra Patel", "Ayush Agarwal", "Shitij Govil", "Animesh Garg"],
+    "published_at": "2026-11-03",
+    "status": "arXiv preprint",
+    "paper_url": "https://arxiv.org/abs/2611.05062",
+    "project_url": "https://flomo-wam.github.io/",
+    "code_url": "https://github.com/pairlab/flomo",
+    "summary_path": "papers/2026-11-05/flomo-scene-flow-world-action.md",
+    "added_at": "2026-11-05",
+    "sources": ["https://arxiv.org/abs/2611.05062", "https://flomo-wam.github.io/", "https://github.com/pairlab/flomo"]
+  },
+  {
+    "id": "arxiv:2611.05377",
+    "doi": "10.48550/arXiv.2611.05377",
+    "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+    "authors": ["Jisoo Kim", "Chaehyun Kim", "Junsu Kim", "Jiho Park", "Seongchan Kim", "Eunbeen Hong", "Soowon Son", "Fu-En Yang", "Seungryong Kim"],
+    "published_at": "2026-11-03",
+    "status": "arXiv preprint",
+    "paper_url": "https://arxiv.org/abs/2611.05377",
+    "project_url": "https://cvlab-kaist.github.io/DreamX/",
+    "code_url": null,
+    "summary_path": "papers/2026-11-05/dreamx-latent-action.md",
+    "added_at": "2026-11-05",
+    "sources": ["https://arxiv.org/abs/2611.05377", "https://cvlab-kaist.github.io/DreamX/"]
   }
 ]
