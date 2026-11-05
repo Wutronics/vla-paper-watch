@@ -1,0 +1,24 @@
+[
+  {
+    "id": "arxiv:2611.04522",
+    "title": "Action Intent as a Bridge: Transferring Manipulation Knowledge from Human-Centric Videos to Robots",
+    "authors": [
+      "Zhiqian Xia",
+      "Lianyang Ma",
+      "Haifeng Xia",
+      "Siyu Xia",
+      "Wei Wang",
+      "Xiaochun Cao"
+    ],
+    "published_at": "2026-11-03",
+    "status": "arXiv preprint",
+    "paper_url": "https://arxiv.org/abs/2611.04522",
+    "project_url": null,
+    "code_url": null,
+    "summary_path": "papers/2026-11-05/action-intent-as-a-bridge.md",
+    "added_at": "2026-11-05",
+    "sources": [
+      "https://arxiv.org/abs/2611.04522"
+    ]
+  }
+]
