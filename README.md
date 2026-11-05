@@ -12,4 +12,3 @@
 
 - `papers/YYYY-MM-DD/`：每篇论文的中文简介。
 - `data/papers.json`：用于去重的结构化索引；以 arXiv ID、DOI、标题和 URL 交叉去重。
-
