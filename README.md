@@ -6,6 +6,11 @@
 
 | 收录日期 | 论文 | 来源 | 链接 | 一句话简介 |
 | --- | --- | --- | --- | --- |
+| 2026-11-08 | SLA: Scaling Spatial-Language-Action Model via Continual Pre-training | arXiv 预印本 | [arXiv:2611.08373](https://arxiv.org/abs/2611.08373) · [简介](papers/2026-11-08/sla-spatial-language-action.md) | 持续预训练阶段引入三维空间监督，提升 VLA 的跨任务与跨具身操作。 |
+| 2026-11-08 | Concertina: Embodying Manipulation and Cognition in One Diffusion Vision-Language Model | arXiv 预印本 | [arXiv:2611.07513](https://arxiv.org/abs/2611.07513) · [简介](papers/2026-11-08/concertina-diffusion-vlm.md) | 在共享扩散视觉语言骨干中直接生成连续动作块。 |
+| 2026-11-08 | Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing | arXiv 预印本 | [arXiv:2611.08425](https://arxiv.org/abs/2611.08425) · [简介](papers/2026-11-08/vla-tug-failure-prediction.md) | 利用校准的潜在特征探针提前发现 VLA 故障并识别类型。 |
+| 2026-11-08 | T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models | arXiv 预印本 | [arXiv:2611.08413](https://arxiv.org/abs/2611.08413) · [简介](papers/2026-11-08/t3r-token-refinement.md) | 无需训练即可剪枝视觉 token 并重新分配注意力。 |
+| 2026-11-08 | AffectiveVLA: Safe and Intent-Aware VLA Control for Human-Humanoid Social Interaction | arXiv 预印本 | [arXiv:2611.07712](https://arxiv.org/abs/2611.07712) · [简介](papers/2026-11-08/affectivevla-humanoid-interaction.md) | 以意图门控和柔顺控制支持人形机器人安全社交接触。 |
 | 2026-11-05 | MESA: An Evaluation Framework for Compositional, Semantic, and Spatial Generalization in Robotics | CoRL 2026 / arXiv | [arXiv:2611.05567](https://arxiv.org/abs/2611.05567) · [简介](papers/2026-11-05/mesa-generalization-benchmark.md) | 以单臂和双臂任务诊断机器人策略的空间、物体类别与组合泛化。 |
 | 2026-11-05 | ELA: End-to-End Latent Action Policy Learning from Video Demonstrations | CoRL 2026 / arXiv | [arXiv:2611.05571](https://arxiv.org/abs/2611.05571) · [简介](papers/2026-11-05/ela-latent-action-policy.md) | 联合学习视频潜在动作、策略与动作解码器，减少机器人示范需求。 |
 | 2026-11-05 | A³-VLA: Automatic Perception-Guided Attention Alignment for Robot Manipulation | NeurIPS 2026 / arXiv | [arXiv:2611.06447](https://arxiv.org/abs/2611.06447) · [简介](papers/2026-11-05/a3-vla-attention-alignment.md) | 用自动提取的交互区域监督 VLA 注意力，提高操作任务成功率。 |
