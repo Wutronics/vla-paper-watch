@@ -6,6 +6,11 @@
 
 | 收录日期 | 论文 | 来源 | 链接 | 一句话简介 |
 | --- | --- | --- | --- | --- |
+| 2026-11-11 | LaST0.5: A Generalist World Action Model with Interaction-Centric Latent Reasoning | arXiv 预印本 | [arXiv:2611.14048](https://arxiv.org/abs/2611.14048) · [简介](papers/2026-11-11/last05-world-action.md) | 在世界专家与动作专家之间学习交互中心表征，增强机器人长程操作。 |
+| 2026-11-11 | VLA-MOPD: On-Policy Distillation for Multi-Task VLA Policy Consolidation | arXiv 预印本 | [arXiv:2611.12286](https://arxiv.org/abs/2611.12286) · [简介](papers/2026-11-11/vla-mopd-policy-consolidation.md) | 通过在线流匹配蒸馏合并多任务 VLA 专家。 |
+| 2026-11-11 | Benchmarking Real-World Robotic Manipulation through Stochastic Challenges | CoRL 2026 | [arXiv:2611.12804](https://arxiv.org/abs/2611.12804) · [简介](papers/2026-11-11/stochastic-real-world-benchmark.md) | 用可复现的随机真实任务比较跨实验室机器人操作系统。 |
+| 2026-11-11 | Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies | arXiv 预印本 | [arXiv:2611.14488](https://arxiv.org/abs/2611.14488) · [简介](papers/2026-11-11/memory-temporal-shortcuts.md) | 揭示 VLA 时间采样记忆会将等待误判为任务进展。 |
+| 2026-11-11 | DexSeed: Expanding Human Hand-Object Interactions into Robot Demonstrations for Dexterous Policy Learning | arXiv 预印本 | [arXiv:2611.14092](https://arxiv.org/abs/2611.14092) · [简介](papers/2026-11-11/dexseed-human-interactions.md) | 将少量人手交互扩展成可执行的语言条件灵巧操作示范。 |
 | 2026-11-08 | SLA: Scaling Spatial-Language-Action Model via Continual Pre-training | arXiv 预印本 | [arXiv:2611.08373](https://arxiv.org/abs/2611.08373) · [简介](papers/2026-11-08/sla-spatial-language-action.md) | 持续预训练阶段引入三维空间监督，提升 VLA 的跨任务与跨具身操作。 |
 | 2026-11-08 | Concertina: Embodying Manipulation and Cognition in One Diffusion Vision-Language Model | arXiv 预印本 | [arXiv:2611.07513](https://arxiv.org/abs/2611.07513) · [简介](papers/2026-11-08/concertina-diffusion-vlm.md) | 在共享扩散视觉语言骨干中直接生成连续动作块。 |
 | 2026-11-08 | Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing | arXiv 预印本 | [arXiv:2611.08425](https://arxiv.org/abs/2611.08425) · [简介](papers/2026-11-08/vla-tug-failure-prediction.md) | 利用校准的潜在特征探针提前发现 VLA 故障并识别类型。 |
