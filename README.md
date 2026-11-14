@@ -6,6 +6,11 @@
 
 | 收录日期 | 论文 | 来源 | 链接 | 一句话简介 |
 | --- | --- | --- | --- | --- |
+| 2026-11-14 | STVLA: Spatial-aware and Temporal-memory forVision-Language-Action Models | arXiv 预印本 | [arXiv:2611.16589](https://arxiv.org/abs/2611.16589) · [简介](papers/2026-11-14/stvla-spatial-temporal-memory.md) | 将空间几何与任务历史结合，改善长程 VLA 操作。 |
+| 2026-11-14 | ManiLadder: Benchmarking Robot Manipulation Through a Categorized and Multi-Difficulty Level Task Ladder | arXiv 预印本 | [arXiv:2611.16374](https://arxiv.org/abs/2611.16374) · [简介](papers/2026-11-14/maniladder-manipulation-benchmark.md) | 用 112 项分层任务衡量机器人操作策略的能力与难度。 |
+| 2026-11-14 | Bind-WAM: Binding-Uncertainty-Guided Selective Future Imagination in World Action Models | arXiv 预印本 | [arXiv:2611.15368](https://arxiv.org/abs/2611.15368) · [简介](papers/2026-11-14/bind-wam-selective-imagination.md) | 根据语言与物体绑定的不确定性选择何时生成未来。 |
+| 2026-11-14 | What Can a VLA Learn from the Agent That Calls It? Task-Level Experience Distillation for Embodied Navigation | arXiv 预印本 | [arXiv:2611.16246](https://arxiv.org/abs/2611.16246) · [简介](papers/2026-11-14/h2e-task-experience-distillation.md) | 把规划代理的导航经验蒸馏到可独立执行的 VLA。 |
+| 2026-11-14 | Reins: Frontier Multimodal Models Driving Real Robot Arms on Long-Horizon Tasks, Zero-Shot | arXiv 预印本 | [arXiv:2611.16632](https://arxiv.org/abs/2611.16632) · [简介](papers/2026-11-14/reins-frontier-robot-harness.md) | 以条件动作、三维感知和并行观察支持真实双臂长程操作。 |
 | 2026-11-11 | LaST0.5: A Generalist World Action Model with Interaction-Centric Latent Reasoning | arXiv 预印本 | [arXiv:2611.14048](https://arxiv.org/abs/2611.14048) · [简介](papers/2026-11-11/last05-world-action.md) | 在世界专家与动作专家之间学习交互中心表征，增强机器人长程操作。 |
 | 2026-11-11 | VLA-MOPD: On-Policy Distillation for Multi-Task VLA Policy Consolidation | arXiv 预印本 | [arXiv:2611.12286](https://arxiv.org/abs/2611.12286) · [简介](papers/2026-11-11/vla-mopd-policy-consolidation.md) | 通过在线流匹配蒸馏合并多任务 VLA 专家。 |
 | 2026-11-11 | Benchmarking Real-World Robotic Manipulation through Stochastic Challenges | CoRL 2026 | [arXiv:2611.12804](https://arxiv.org/abs/2611.12804) · [简介](papers/2026-11-11/stochastic-real-world-benchmark.md) | 用可复现的随机真实任务比较跨实验室机器人操作系统。 |
