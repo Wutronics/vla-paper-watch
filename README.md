@@ -6,6 +6,11 @@
 
 | 收录日期 | 论文 | 来源 | 链接 | 一句话简介 |
 | --- | --- | --- | --- | --- |
+| 2026-11-17 | ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters | arXiv 技术报告 | [arXiv:2611.21607](https://arxiv.org/abs/2611.21607) · [简介](papers/2026-11-17/scalevla-552b.md) | 对比 2B 至 552B 视觉语言骨干对 VLA 示范效率和泛化的影响。 |
+| 2026-11-17 | ThinkWAM: Rethinking Latent Futures for Action Refinement | arXiv 预印本 | [arXiv:2611.21258](https://arxiv.org/abs/2611.21258) · [简介](papers/2026-11-17/thinkwam-latent-futures.md) | 先提议动作，再按其潜在后果修正执行动作。 |
+| 2026-11-17 | Stochastic Self-Distillation for Flow-Based Vision-Language-Action Models | arXiv 预印本 | [arXiv:2611.20460](https://arxiv.org/abs/2611.20460) · [简介](papers/2026-11-17/vla-ssd-self-distillation.md) | 将流式动作头蒸馏为随机单步策略，降低强化学习采样成本。 |
+| 2026-11-17 | PlanDiv: Test-Time Scaling with Latent Plans for Vision-Language-Action Models | arXiv 预印本 | [arXiv:2611.20010](https://arxiv.org/abs/2611.20010) · [简介](papers/2026-11-17/plandiv-latent-plans.md) | 通过不同潜在计划增加动作候选的有效多样性。 |
+| 2026-11-17 | Lift, See, Act: Hierarchical Robot Policy Pretraining with 3D Foundation Models | NeurIPS 2026 / arXiv | [arXiv:2611.20481](https://arxiv.org/abs/2611.20481) · [简介](papers/2026-11-17/lift-see-act-3d-pretraining.md) | 利用人类视频中的密集三维几何与交互线索预训练机器人策略。 |
 | 2026-11-14 | STVLA: Spatial-aware and Temporal-memory forVision-Language-Action Models | arXiv 预印本 | [arXiv:2611.16589](https://arxiv.org/abs/2611.16589) · [简介](papers/2026-11-14/stvla-spatial-temporal-memory.md) | 将空间几何与任务历史结合，改善长程 VLA 操作。 |
 | 2026-11-14 | ManiLadder: Benchmarking Robot Manipulation Through a Categorized and Multi-Difficulty Level Task Ladder | arXiv 预印本 | [arXiv:2611.16374](https://arxiv.org/abs/2611.16374) · [简介](papers/2026-11-14/maniladder-manipulation-benchmark.md) | 用 112 项分层任务衡量机器人操作策略的能力与难度。 |
 | 2026-11-14 | Bind-WAM: Binding-Uncertainty-Guided Selective Future Imagination in World Action Models | arXiv 预印本 | [arXiv:2611.15368](https://arxiv.org/abs/2611.15368) · [简介](papers/2026-11-14/bind-wam-selective-imagination.md) | 根据语言与物体绑定的不确定性选择何时生成未来。 |
