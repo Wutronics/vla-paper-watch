@@ -6,6 +6,11 @@
 
 | 收录日期 | 论文 | 来源 | 链接 | 一句话简介 |
 | --- | --- | --- | --- | --- |
+| 2026-11-21 | $Z$-sight: Unifying Vision-Language-Action and Latent World Modeling | arXiv 预印本 | [arXiv:2611.24940](https://arxiv.org/abs/2611.24940) · [简介](papers/2026-11-21/z-sight-latent-world-model.md) | 在 VLA 自身视觉 token 空间联合预测未来与动作，改善人形机器人操作。 |
+| 2026-11-21 | PhyDEX: A Benchmark for Physical Reasoning in Vision-Language-Action Models via Dynamic Extrinsic Dexterity | arXiv 预印本 | [arXiv:2611.26565](https://arxiv.org/abs/2611.26565) · [简介](papers/2026-11-21/phydex-physical-reasoning-benchmark.md) | 用物理属性变化的投掷任务诊断 VLA 的动力学推理能力。 |
+| 2026-11-21 | TacInno: Teaching Vision-Language-Action Models the Contact Dynamics Beyond Vision and Action | arXiv 预印本 | [arXiv:2611.26405](https://arxiv.org/abs/2611.26405) · [简介](papers/2026-11-21/tacinno-contact-dynamics.md) | 用视觉和动作无法解释的触觉变化监督接触密集操作。 |
+| 2026-11-21 | CauSyncVLA: Causal Latent World Modeling for Asynchronous Robot Control | arXiv 预印本 | [arXiv:2611.25667](https://arxiv.org/abs/2611.25667) · [简介](papers/2026-11-21/causyncvla-asynchronous-control.md) | 预测当前感知记忆并校正动作块，提升异步 VLA 的控制效率。 |
+| 2026-11-21 | One View, One Action: Spatially Generalizable VLAs through Observation-Aligned Experts and Cross Graph Consistency | arXiv 预印本 | [arXiv:2611.26161](https://arxiv.org/abs/2611.26161) · [简介](papers/2026-11-21/one-view-one-action-spatial-generalization.md) | 以相机视角对齐的动作监督改善空间变化下的操作泛化。 |
 | 2026-11-17 | ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters | arXiv 技术报告 | [arXiv:2611.21607](https://arxiv.org/abs/2611.21607) · [简介](papers/2026-11-17/scalevla-552b.md) | 对比 2B 至 552B 视觉语言骨干对 VLA 示范效率和泛化的影响。 |
 | 2026-11-17 | ThinkWAM: Rethinking Latent Futures for Action Refinement | arXiv 预印本 | [arXiv:2611.21258](https://arxiv.org/abs/2611.21258) · [简介](papers/2026-11-17/thinkwam-latent-futures.md) | 先提议动作，再按其潜在后果修正执行动作。 |
 | 2026-11-17 | Stochastic Self-Distillation for Flow-Based Vision-Language-Action Models | arXiv 预印本 | [arXiv:2611.20460](https://arxiv.org/abs/2611.20460) · [简介](papers/2026-11-17/vla-ssd-self-distillation.md) | 将流式动作头蒸馏为随机单步策略，降低强化学习采样成本。 |
