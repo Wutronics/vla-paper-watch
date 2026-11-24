@@ -570,5 +570,67 @@
     "added_at": "2026-11-24",
     "ai_quality_score": 83,
     "sources": ["https://arxiv.org/abs/2611.26969", "https://arxiv.org/html/2611.26969v1", "https://robodyna.github.io/robodyna/", "https://github.com/robodyna/robodyna"]
+  },
+  {
+    "id": "arxiv:2611.30907",
+    "doi": "10.48550/arXiv.2611.30907",
+    "title": "DexLatentWorld: 3D Cross-Embodiment Latent Action World Models for Zero-Shot Robotic Manipulation",
+    "authors": ["Vinay Udit Mohan", "Xuchuan Huang", "Rolandos Alexandros Potamias"],
+    "published_at": "2026-11-23", "added_at": "2026-11-24", "status": "arXiv preprint",
+    "paper_url": "https://arxiv.org/abs/2611.30907",
+    "project_url": "https://vinaymohan0409.github.io/DexLatentWorld/",
+    "code_url": "https://github.com/VinayMohan0409/DexLatentWorld",
+    "summary_path": "papers/2026-11-24/dexlatentworld-cross-embodiment.md",
+    "ai_quality_score": 87,
+    "sources": ["https://arxiv.org/abs/2611.30907", "https://vinaymohan0409.github.io/DexLatentWorld/", "https://github.com/VinayMohan0409/DexLatentWorld"]
+  },
+  {
+    "id": "arxiv:2611.31079",
+    "doi": "10.48550/arXiv.2611.31079",
+    "title": "Wrist-Camera Video Diffusion as Generalizable Robot Policies",
+    "authors": ["Jingyuan Liu", "Yongwei Chen", "Yishan Yang", "Zexin He", "Xingang Pan", "Zhi Hou"],
+    "published_at": "2026-11-23", "added_at": "2026-11-24", "status": "arXiv preprint",
+    "paper_url": "https://arxiv.org/abs/2611.31079",
+    "project_url": "https://wrist-video-policy.github.io/", "code_url": null,
+    "summary_path": "papers/2026-11-24/wrist-camera-video-policy.md",
+    "ai_quality_score": 85,
+    "sources": ["https://arxiv.org/abs/2611.31079", "https://wrist-video-policy.github.io/"]
+  },
+  {
+    "id": "arxiv:2611.30963",
+    "doi": "10.48550/arXiv.2611.30963",
+    "title": "Foresight Forcing: Learning Spatial Foresight for Robotic Manipulation",
+    "authors": ["Mishuo Han", "Zhixuan Liang", "Zhaoyuan Wan", "Wendi Chen", "Jiarui Chen", "Xinkai Wang", "Yue Ma", "Yu Zhou", "Junting Chen", "Yao Mu", "Jun Lv", "Chuan Wen", "Cewu Lu"],
+    "published_at": "2026-11-23", "added_at": "2026-11-24", "status": "arXiv preprint",
+    "paper_url": "https://arxiv.org/abs/2611.30963",
+    "project_url": "https://anson2333.github.io/foresight-forcing/",
+    "code_url": "https://github.com/anson2333/ForesightForcing",
+    "summary_path": "papers/2026-11-24/foresight-forcing-spatial.md",
+    "ai_quality_score": 84,
+    "sources": ["https://arxiv.org/abs/2611.30963", "https://anson2333.github.io/foresight-forcing/", "https://github.com/anson2333/ForesightForcing"]
+  },
+  {
+    "id": "arxiv:2611.31195",
+    "doi": "10.48550/arXiv.2611.31195",
+    "title": "VITA-WAM: Manifold-Aligned World-Action Modeling for Real-Time Robot Control",
+    "authors": ["Boqi Zhao", "Dechen Gao", "Hanchu Zhou", "Hang Wang", "Junshan Zhang"],
+    "published_at": "2026-11-23", "added_at": "2026-11-24", "status": "arXiv preprint",
+    "paper_url": "https://arxiv.org/abs/2611.31195",
+    "project_url": "https://ucd-dare.github.io/VITA-WAM/", "code_url": null,
+    "summary_path": "papers/2026-11-24/vita-wam-manifold-alignment.md",
+    "ai_quality_score": 83,
+    "sources": ["https://arxiv.org/abs/2611.31195", "https://ucd-dare.github.io/VITA-WAM/"]
+  },
+  {
+    "id": "arxiv:2611.31126",
+    "doi": "10.48550/arXiv.2611.31126",
+    "title": "WeaveVLA: 3D Relational Grounding for Vision-Language-Action Models",
+    "authors": ["Zien Wang", "Yuhao Pan", "Yunfeng Fan", "Nan Cheng", "Xin Xia", "Wenchao Xu"],
+    "published_at": "2026-11-23", "added_at": "2026-11-24", "status": "arXiv preprint",
+    "paper_url": "https://arxiv.org/abs/2611.31126",
+    "project_url": "https://kingzein.github.io/weave-vla/", "code_url": "https://github.com/Kingzein/WeaveVLA",
+    "summary_path": "papers/2026-11-24/weavevla-3d-relational-grounding.md",
+    "ai_quality_score": 84,
+    "sources": ["https://arxiv.org/abs/2611.31126", "https://arxiv.org/html/2611.31126v1", "https://kingzein.github.io/weave-vla/", "https://github.com/Kingzein/WeaveVLA"]
   }
 ]

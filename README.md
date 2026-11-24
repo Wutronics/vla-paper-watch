@@ -6,6 +6,11 @@
 
 | 收录日期 | 论文 | 来源 | 链接 | 一句话简介 |
 | --- | --- | --- | --- | --- |
+| 2026-11-24 | DexLatentWorld: 3D Cross-Embodiment Latent Action World Models for Zero-Shot Robotic Manipulation | arXiv 预印本（87/100） | [arXiv:2611.30907](https://arxiv.org/abs/2611.30907) · [简介](papers/2026-11-24/dexlatentworld-cross-embodiment.md) | 以三维潜在动作连接不同机器人手，实现未见灵巧手的零样本操作。 |
+| 2026-11-24 | Wrist-Camera Video Diffusion as Generalizable Robot Policies | arXiv 预印本（85/100） | [arXiv:2611.31079](https://arxiv.org/abs/2611.31079) · [简介](papers/2026-11-24/wrist-camera-video-policy.md) | 从预测腕部视频恢复相机轨迹，并跨三种机器人执行操作。 |
+| 2026-11-24 | Foresight Forcing: Learning Spatial Foresight for Robotic Manipulation | arXiv 预印本（84/100） | [arXiv:2611.30963](https://arxiv.org/abs/2611.30963) · [简介](papers/2026-11-24/foresight-forcing-spatial.md) | 蒸馏三维空间变化来指导动作，而不在部署时生成未来图像。 |
+| 2026-11-24 | VITA-WAM: Manifold-Aligned World-Action Modeling for Real-Time Robot Control | arXiv 预印本（83/100） | [arXiv:2611.31195](https://arxiv.org/abs/2611.31195) · [简介](papers/2026-11-24/vita-wam-manifold-alignment.md) | 对齐观测和动作潜变量，以单步生成提高世界动作模型实时性。 |
+| 2026-11-24 | WeaveVLA: 3D Relational Grounding for Vision-Language-Action Models | arXiv 预印本（84/100） | [arXiv:2611.31126](https://arxiv.org/abs/2611.31126) · [简介](papers/2026-11-24/weavevla-3d-relational-grounding.md) | 用任务相关三维关系图改善视角扰动下的 VLA 操作。 |
 | 2026-11-24 | SCAP: Stochastic Context for Action Expert Pretraining | arXiv 预印本（85/100） | [arXiv:2611.27187](https://arxiv.org/abs/2611.27187) · [简介](papers/2026-11-24/scap-stochastic-context-pretraining.md) | 随机遮蔽视觉和语言上下文，改善动作专家预训练后的指令依赖。 |
 | 2026-11-24 | FoRe: A Force-Guided Framework for Autonomous Grasp Recovery in Vision-Language-Action Models | arXiv 预印本（82/100） | [arXiv:2611.27011](https://arxiv.org/abs/2611.27011) · [简介](papers/2026-11-24/fore-force-guided-grasp-recovery.md) | 结合力反馈与局部重试学习，提高 VLA 抓取失败后的恢复率。 |
 | 2026-11-24 | Learning from Incomplete Actions: Interval Motion Supervision for Vision-Language-Action Policies | arXiv 预印本（81/100） | [arXiv:2611.27171](https://arxiv.org/abs/2611.27171) · [简介](papers/2026-11-24/incomplete-actions-interval-motion.md) | 以可靠端点间的净运动约束缺失动作，利用不完整示范训练 VLA。 |
