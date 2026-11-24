@@ -6,6 +6,10 @@
 
 | 收录日期 | 论文 | 来源 | 链接 | 一句话简介 |
 | --- | --- | --- | --- | --- |
+| 2026-11-24 | SCAP: Stochastic Context for Action Expert Pretraining | arXiv 预印本（85/100） | [arXiv:2611.27187](https://arxiv.org/abs/2611.27187) · [简介](papers/2026-11-24/scap-stochastic-context-pretraining.md) | 随机遮蔽视觉和语言上下文，改善动作专家预训练后的指令依赖。 |
+| 2026-11-24 | FoRe: A Force-Guided Framework for Autonomous Grasp Recovery in Vision-Language-Action Models | arXiv 预印本（82/100） | [arXiv:2611.27011](https://arxiv.org/abs/2611.27011) · [简介](papers/2026-11-24/fore-force-guided-grasp-recovery.md) | 结合力反馈与局部重试学习，提高 VLA 抓取失败后的恢复率。 |
+| 2026-11-24 | Learning from Incomplete Actions: Interval Motion Supervision for Vision-Language-Action Policies | arXiv 预印本（81/100） | [arXiv:2611.27171](https://arxiv.org/abs/2611.27171) · [简介](papers/2026-11-24/incomplete-actions-interval-motion.md) | 以可靠端点间的净运动约束缺失动作，利用不完整示范训练 VLA。 |
+| 2026-11-24 | RoboDyna: A Benchmark for Evaluating Robotic Manipulation under Physically Grounded Dynamics | arXiv 预印本（83/100） | [arXiv:2611.26969](https://arxiv.org/abs/2611.26969) · [简介](papers/2026-11-24/robodyna-dynamic-manipulation-benchmark.md) | 以动态物理任务和异步协议评估 VLA 的操作能力与推理时延。 |
 | 2026-11-21 | $Z$-sight: Unifying Vision-Language-Action and Latent World Modeling | arXiv 预印本 | [arXiv:2611.24940](https://arxiv.org/abs/2611.24940) · [简介](papers/2026-11-21/z-sight-latent-world-model.md) | 在 VLA 自身视觉 token 空间联合预测未来与动作，改善人形机器人操作。 |
 | 2026-11-21 | PhyDEX: A Benchmark for Physical Reasoning in Vision-Language-Action Models via Dynamic Extrinsic Dexterity | arXiv 预印本 | [arXiv:2611.26565](https://arxiv.org/abs/2611.26565) · [简介](papers/2026-11-21/phydex-physical-reasoning-benchmark.md) | 用物理属性变化的投掷任务诊断 VLA 的动力学推理能力。 |
 | 2026-11-21 | TacInno: Teaching Vision-Language-Action Models the Contact Dynamics Beyond Vision and Action | arXiv 预印本 | [arXiv:2611.26405](https://arxiv.org/abs/2611.26405) · [简介](papers/2026-11-21/tacinno-contact-dynamics.md) | 用视觉和动作无法解释的触觉变化监督接触密集操作。 |
