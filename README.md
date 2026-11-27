@@ -6,6 +6,10 @@
 
 | 收录日期 | 论文 | 来源 | 链接 | 一句话简介 |
 | --- | --- | --- | --- | --- |
+| 2026-11-27 | Cairn: Object-Centric 3D Trajectory Priors for Steering Frozen VLAs | arXiv 预印本（91/100） | [arXiv:2611.34914](https://arxiv.org/abs/2611.34914) · [简介](papers/2026-11-27/cairn-object-centric-steering.md) | 以物体中心三维轨迹引导冻结 VLA，显著改善障碍与布局变化下的放置。 |
+| 2026-11-27 | ε̃: Does Initial Noise Induce Directional Bias in Vision-Language-Action Models? | arXiv 预印本（88/100） | [arXiv:2611.33816](https://arxiv.org/abs/2611.33816) · [简介](papers/2026-11-27/epsilon-tilde-noise-bias.md) | 揭示动作噪声的方向偏差，以反向噪声一致性和时间均值去除增强 VLA 稳定性。 |
+| 2026-11-27 | FreshVLA: Frequency-Regularized Time Scale Hierarchical Latent Actions for Vision-Language-Action Models | arXiv 预印本（86/100） | [arXiv:2611.33635](https://arxiv.org/abs/2611.33635) · [简介](papers/2026-11-27/freshvla-hierarchical-latent-actions.md) | 从无动作视频学习双时间尺度潜在动作，提升长程操作与视觉扰动鲁棒性。 |
+| 2026-11-27 | M²AdaptVLA: Multimodal Memory-Augmented Vision-Language-Action Model with Predictive Test-Time Adaptation | arXiv 预印本（85/100） | [arXiv:2611.34560](https://arxiv.org/abs/2611.34560) · [简介](papers/2026-11-27/m2adaptvla-multimodal-memory.md) | 融合视觉和力矩记忆，并用预测误差在线适应接触变化。 |
 | 2026-11-24 | DexLatentWorld: 3D Cross-Embodiment Latent Action World Models for Zero-Shot Robotic Manipulation | arXiv 预印本（87/100） | [arXiv:2611.30907](https://arxiv.org/abs/2611.30907) · [简介](papers/2026-11-24/dexlatentworld-cross-embodiment.md) | 以三维潜在动作连接不同机器人手，实现未见灵巧手的零样本操作。 |
 | 2026-11-24 | Wrist-Camera Video Diffusion as Generalizable Robot Policies | arXiv 预印本（85/100） | [arXiv:2611.31079](https://arxiv.org/abs/2611.31079) · [简介](papers/2026-11-24/wrist-camera-video-policy.md) | 从预测腕部视频恢复相机轨迹，并跨三种机器人执行操作。 |
 | 2026-11-24 | Foresight Forcing: Learning Spatial Foresight for Robotic Manipulation | arXiv 预印本（84/100） | [arXiv:2611.30963](https://arxiv.org/abs/2611.30963) · [简介](papers/2026-11-24/foresight-forcing-spatial.md) | 蒸馏三维空间变化来指导动作，而不在部署时生成未来图像。 |

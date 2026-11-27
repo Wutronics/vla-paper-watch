@@ -632,5 +632,41 @@
     "summary_path": "papers/2026-11-24/weavevla-3d-relational-grounding.md",
     "ai_quality_score": 84,
     "sources": ["https://arxiv.org/abs/2611.31126", "https://arxiv.org/html/2611.31126v1", "https://kingzein.github.io/weave-vla/", "https://github.com/Kingzein/WeaveVLA"]
+  },
+  {
+    "id": "arxiv:2611.34914", "doi": "10.48550/arXiv.2611.34914",
+    "title": "Cairn: Object-Centric 3D Trajectory Priors for Steering Frozen VLAs",
+    "authors": ["Agelos Kratimenos", "Kostas Daniilidis", "Evangelos Chatzipantazis"],
+    "published_at": "2026-11-25", "added_at": "2026-11-27", "status": "arXiv preprint",
+    "paper_url": "https://arxiv.org/abs/2611.34914", "project_url": null, "code_url": null,
+    "summary_path": "papers/2026-11-27/cairn-object-centric-steering.md", "ai_quality_score": 91,
+    "sources": ["https://arxiv.org/abs/2611.34914", "https://arxiv.org/html/2611.34914"]
+  },
+  {
+    "id": "arxiv:2611.33635", "doi": "10.48550/arXiv.2611.33635",
+    "title": "FreshVLA: Frequency-Regularized Time Scale Hierarchical Latent Actions for Vision-Language-Action Models",
+    "authors": ["Jiaming Liang", "Yifeng Zhan", "Rongyi He", "Mu Li", "Jiaqi Fan", "Zhiyuan Zhang", "Qiwei Liang", "Zhengjie Zhang", "Boyang Cai", "Ningyuan Zhang", "Xingjian Jing", "Qiang Nie"],
+    "published_at": "2026-11-25", "added_at": "2026-11-27", "status": "arXiv preprint",
+    "paper_url": "https://arxiv.org/abs/2611.33635", "project_url": "https://freshvla.github.io/", "code_url": null,
+    "summary_path": "papers/2026-11-27/freshvla-hierarchical-latent-actions.md", "ai_quality_score": 86,
+    "sources": ["https://arxiv.org/abs/2611.33635", "https://arxiv.org/html/2611.33635", "https://freshvla.github.io/"]
+  },
+  {
+    "id": "arxiv:2611.34560", "doi": "10.48550/arXiv.2611.34560",
+    "title": "M²AdaptVLA: Multimodal Memory-Augmented Vision-Language-Action Model with Predictive Test-Time Adaptation",
+    "authors": ["Liufan Tan", "Tong Wang", "Yuehao Yin", "Jian Chen", "Yihang Yin", "Ying Qu", "Wenyu Li", "Ruyi Gan", "Hao Wang"],
+    "published_at": "2026-11-25", "added_at": "2026-11-27", "status": "arXiv preprint",
+    "paper_url": "https://arxiv.org/abs/2611.34560", "project_url": "https://tlf-tlf.github.io/M2AdaptVLAPage/", "code_url": null,
+    "summary_path": "papers/2026-11-27/m2adaptvla-multimodal-memory.md", "ai_quality_score": 85,
+    "sources": ["https://arxiv.org/abs/2611.34560", "https://arxiv.org/html/2611.34560", "https://tlf-tlf.github.io/M2AdaptVLAPage/"]
+  },
+  {
+    "id": "arxiv:2611.33816", "doi": "10.48550/arXiv.2611.33816",
+    "title": "ε̃: Does Initial Noise Induce Directional Bias in Vision-Language-Action Models?",
+    "authors": ["Junmyeong Lee", "Dongmin Shin", "Wooseok Jeon", "JunGyu Lee", "Seunghyun Shin", "Hae-Gon Jeon"],
+    "published_at": "2026-11-25", "added_at": "2026-11-27", "status": "arXiv preprint",
+    "paper_url": "https://arxiv.org/abs/2611.33816", "project_url": "https://june65.github.io/Epsilon-Tilde/", "code_url": "https://github.com/june65/Epsilon-Tilde",
+    "summary_path": "papers/2026-11-27/epsilon-tilde-noise-bias.md", "ai_quality_score": 88,
+    "sources": ["https://arxiv.org/abs/2611.33816", "https://arxiv.org/html/2611.33816", "https://june65.github.io/Epsilon-Tilde/", "https://github.com/june65/Epsilon-Tilde"]
   }
 ]
