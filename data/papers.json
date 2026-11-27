@@ -668,5 +668,32 @@
     "paper_url": "https://arxiv.org/abs/2611.33816", "project_url": "https://june65.github.io/Epsilon-Tilde/", "code_url": "https://github.com/june65/Epsilon-Tilde",
     "summary_path": "papers/2026-11-27/epsilon-tilde-noise-bias.md", "ai_quality_score": 88,
     "sources": ["https://arxiv.org/abs/2611.33816", "https://arxiv.org/html/2611.33816", "https://june65.github.io/Epsilon-Tilde/", "https://github.com/june65/Epsilon-Tilde"]
+  },
+  {
+    "id": "arxiv:2611.34449", "doi": "10.48550/arXiv.2611.34449",
+    "title": "HoloBrain-0.5 Technical Report",
+    "authors": ["Xuewu Lin", "Jiahao Wang", "Jiawei Li", "Mengdi Li", "Zhengmao Sun", "Yiwei Jin", "Hongyu Xie", "Zhengyang Feng", "Kun Wu", "Zihao Chen", "Lianzhou Zhang", "Lichao Huang", "Zhizhong Su"],
+    "published_at": "2026-11-25", "added_at": "2026-11-27", "status": "arXiv technical report",
+    "paper_url": "https://arxiv.org/abs/2611.34449", "project_url": null, "code_url": "https://github.com/HorizonRobotics/HoloBrain",
+    "summary_path": "papers/2026-11-27/holobrain-05-cross-embodiment.md", "ai_quality_score": 87,
+    "sources": ["https://arxiv.org/abs/2611.34449", "https://arxiv.org/html/2611.34449", "https://github.com/HorizonRobotics/HoloBrain"]
+  },
+  {
+    "id": "arxiv:2611.34124", "doi": "10.48550/arXiv.2611.34124",
+    "title": "WAtcher: Watching Ahead for Safe Robotic Manipulation with Efficient World-Action Models",
+    "authors": ["Ziyu Shan", "Xiao Ma", "Kangrui Yu", "Changjie Wang", "Gaoyuan Wu", "Zaijia Yang", "Chuanrui Zhang", "Qirui Li", "Yanbo Zhang", "Duomin Wang", "Ziwei Wang"],
+    "published_at": "2026-11-25", "added_at": "2026-11-27", "status": "arXiv preprint",
+    "paper_url": "https://arxiv.org/abs/2611.34124", "project_url": "https://zyshan0929.github.io/WAtcher/", "code_url": "https://github.com/maxiaovivi/WAtcher",
+    "summary_path": "papers/2026-11-27/watcher-safe-world-action.md", "ai_quality_score": 86,
+    "sources": ["https://arxiv.org/abs/2611.34124", "https://arxiv.org/html/2611.34124", "https://zyshan0929.github.io/WAtcher/", "https://github.com/maxiaovivi/WAtcher"]
+  },
+  {
+    "id": "arxiv:2611.33710", "doi": "10.48550/arXiv.2611.33710",
+    "title": "M²-WAM: Efficient Hierarchical Memory Across Modalities and Timescales for World-Action Models",
+    "authors": ["Xiaopeng Zhang", "Weiqi Yuan", "Xin Zhu", "Jiaxi Huang", "Yueqi Hu", "Yin Zhang", "Jian Yao", "Yanjie Li"],
+    "published_at": "2026-11-25", "added_at": "2026-11-27", "status": "arXiv preprint",
+    "paper_url": "https://arxiv.org/abs/2611.33710", "project_url": null, "code_url": null,
+    "summary_path": "papers/2026-11-27/m2-wam-hierarchical-memory.md", "ai_quality_score": 83,
+    "sources": ["https://arxiv.org/abs/2611.33710", "https://arxiv.org/html/2611.33710"]
   }
 ]

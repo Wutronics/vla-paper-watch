@@ -6,6 +6,9 @@
 
 | 收录日期 | 论文 | 来源 | 链接 | 一句话简介 |
 | --- | --- | --- | --- | --- |
+| 2026-11-27 | HoloBrain-0.5 Technical Report | arXiv 技术报告（87/100） | [arXiv:2611.34449](https://arxiv.org/abs/2611.34449) · [简介](papers/2026-11-27/holobrain-05-cross-embodiment.md) | 标准化机器人运动学结构，实现多形态 VLA 的预训练与跨机迁移。 |
+| 2026-11-27 | WAtcher: Watching Ahead for Safe Robotic Manipulation with Efficient World-Action Models | arXiv 预印本（86/100） | [arXiv:2611.34124](https://arxiv.org/abs/2611.34124) · [简介](papers/2026-11-27/watcher-safe-world-action.md) | 在执行动作前预测结果并筛查风险，降低真机危险事件。 |
+| 2026-11-27 | M²-WAM: Efficient Hierarchical Memory Across Modalities and Timescales for World-Action Models | arXiv 预印本（83/100） | [arXiv:2611.33710](https://arxiv.org/abs/2611.33710) · [简介](papers/2026-11-27/m2-wam-hierarchical-memory.md) | 分离近远期视觉与动作记忆，改善长程操作并控制推理成本。 |
 | 2026-11-27 | Cairn: Object-Centric 3D Trajectory Priors for Steering Frozen VLAs | arXiv 预印本（91/100） | [arXiv:2611.34914](https://arxiv.org/abs/2611.34914) · [简介](papers/2026-11-27/cairn-object-centric-steering.md) | 以物体中心三维轨迹引导冻结 VLA，显著改善障碍与布局变化下的放置。 |
 | 2026-11-27 | ε̃: Does Initial Noise Induce Directional Bias in Vision-Language-Action Models? | arXiv 预印本（88/100） | [arXiv:2611.33816](https://arxiv.org/abs/2611.33816) · [简介](papers/2026-11-27/epsilon-tilde-noise-bias.md) | 揭示动作噪声的方向偏差，以反向噪声一致性和时间均值去除增强 VLA 稳定性。 |
 | 2026-11-27 | FreshVLA: Frequency-Regularized Time Scale Hierarchical Latent Actions for Vision-Language-Action Models | arXiv 预印本（86/100） | [arXiv:2611.33635](https://arxiv.org/abs/2611.33635) · [简介](papers/2026-11-27/freshvla-hierarchical-latent-actions.md) | 从无动作视频学习双时间尺度潜在动作，提升长程操作与视觉扰动鲁棒性。 |
